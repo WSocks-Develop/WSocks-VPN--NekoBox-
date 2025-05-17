@@ -1,0 +1,14 @@
+{
+    "block_domain": "geosite:category-ads-all\ngeosite:appcenter.ms\ngeosite:firebase.io\ngeosite:crashlytics.com",
+    "custom": "{\"rules\":[{\"outbound\":\"direct\",\"process_name\":[\"VALORANT.exe\",\"VALORANT-Win64-Shipping.exe\",\"csgo.exe\",\"cs2.exe\",\"dota2.exe\",\"FortniteClient-Win64-Shipping.exe\",\"ModernWarfare.exe\",\"LeagueClient.exe\",\"Wow.exe\",\"r5apex.exe\",\"TslGame.exe\",\"GenshinImpact.exe\",\"javaw.exe\",\"Overwatch.exe\",\"RocketLeague.exe\",\"RobloxPlayerBeta.exe\",\"EscapeFromTarkov.exe\",\"bf2042.exe\",\"eso64.exe\",\"Destiny2.exe\",\"FallGuys_client_game.exe\",\"starwarsbattlefrontii.exe\",\"ffxiv.exe\",\"Cyberpunk2077.exe\",\"RDR2.exe\",\"Phasmophobia.exe\",\"DeadByDaylight.exe\",\"SeaOfThieves.exe\",\"RainbowSix.exe\",\"LostArk.exe\",\"aces.exe\",\"ShooterGame.exe\",\"steamwebhelper.exe\",\"steamservice.exe\",\"AfterFX.exe\",\"Animate.exe\",\"Adobe Audition.exe\",\"Adobe Bridge.exe\",\"Character Animator.exe\",\"Adobe Dimension.exe\",\"Dreamweaver.exe\",\"Illustrator.exe\",\"InCopy.exe\",\"InDesign.exe\",\"Lightroom.exe\",\"Adobe Media Encoder.exe\",\"Photoshop.exe\",\"Adobe Premiere Pro.exe\",\"Adobe Premiere Rush.exe\",\"Adobe Substance 3D Designer.exe\",\"Adobe Substance 3D Modeler.exe\",\"Adobe Substance 3D Painter.exe\",\"Adobe Substance 3D Sampler.exe\",\"Adobe Substance 3D Stager.exe\",\"aces.exe\",\"aces_BE.exe\",\"steam.exe\",\"steam.exe\"]}]}",
+    "def_outbound": "proxy",
+    "direct_dns": "https://doh.pub/dns-query",
+    "direct_domain": "domain:ru\ndomain:su\ndomain:рф\ngeosite:category-ru\ngeosite:whatsapp\ngeosite:telegram\ngeosite:steam\ngeosite:kpolyakov.spb.ru\ngeosite:animegoo.art\ngeosite:animego.la\ngeosite:adobe\ngeosite:adobe-activation",
+    "direct_ip": "geoip:ru\ngeoip:private",
+    "dns_final_out": "proxy",
+    "dns_routing": true,
+    "proxy_domain": "geosite:2ip.ru",
+    "remote_dns": "https://dns.google/dns-query",
+    "sniffing_mode": 1,
+    "use_dns_object": false
+}
